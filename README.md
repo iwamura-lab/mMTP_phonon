@@ -1,2 +1,2 @@
-# mMTP_phonon
+# mmtp
 Reproduce paramagnetic phonon in magnetic MTP.
